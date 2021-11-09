@@ -363,7 +363,7 @@
     opacity: 0.7;
   }
   .img3 {
-    background-image: url(/img/product/3.jpg);
+    background-image: url(../img/product/3.jpg);
     background-size: 102px;
     border: 2px solid #fff;
   }
