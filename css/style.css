@@ -329,7 +329,7 @@
 
   .product {
     display: flex; 
-    background: url(/..img/background/back-2.png);
+    background: url(../img/background/back-2.png);
     align-items:flex-end;
     background-position-x: 99%;
     padding-top: 100px;
