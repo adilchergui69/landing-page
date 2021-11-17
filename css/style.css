@@ -204,6 +204,7 @@
   .button2:hover {
     background-color: rgb(140, 210, 245);
     cursor: pointer;
+  }
     /*  control video  */
 
 
@@ -329,7 +330,7 @@
 
   .product {
     display: flex; 
-    background: url(../img/background/back-2.png);
+    background: url(/img/background/back-2.png);
     align-items:flex-end;
     background-position-x: 99%;
     padding-top: 100px;
@@ -342,7 +343,7 @@
   }
 
   .img1 {
-    background-image: url(../img/product/first1.jpg);
+    background-image: url(/img/product/first1.jpg);
     background-size: 102px;
     background-repeat: no-repeat;
   }
@@ -352,7 +353,7 @@
   }
 
   .img2 {
-    background-image: url(../img/product/2.jpg);
+    background-image: url(/img/product/2.jpg);
     background-size: 102px;
     border: 2px solid #fff;
     background-repeat: no-repeat;
@@ -362,7 +363,7 @@
     opacity: 0.7;
   }
   .img3 {
-    background-image: url(../img/product/3.jpg);
+    background-image: url(/img/product/3.jpg);
     background-size: 102px;
     border: 2px solid #fff;
   }
@@ -371,7 +372,7 @@
     opacity: 0.7;
   }
   .img4 {
-    background-image: url(../img/product/4.jpg);
+    background-image: url(/img/product/4.jpg);
     background-size: 102px;
     border: 2px solid #fff;
     background-repeat: no-repeat;
@@ -474,7 +475,7 @@
 
 
   .email-box {
-    background-image: url(../img/background/smil.jpg);
+    background-image: url(/img/background/smil.jpg);
     background-repeat: no-repeat;
     position: relative;
     height: 300px;
